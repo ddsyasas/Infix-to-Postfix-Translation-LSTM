@@ -1,0 +1,15 @@
+# Colab runtime files
+.config/
+sample_data/
+
+# Model weights and checkpoints (too large for git)
+*.h5
+*.keras
+*_ckpt/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
