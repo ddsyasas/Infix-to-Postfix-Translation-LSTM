@@ -321,4 +321,4 @@ Infix-to-Postfix-Translation-LSTM/
 
 ## License
 
-This project is open source and available for educational purposes.
+This project is licensed under the [MIT License](LICENSE).
